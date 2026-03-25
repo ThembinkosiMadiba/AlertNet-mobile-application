@@ -60,7 +60,6 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
         <li>📧 Student email</li>
         <li>🔒 Secure password</li>
       </ul>
-</td>
 </tr>
 </table>
 
