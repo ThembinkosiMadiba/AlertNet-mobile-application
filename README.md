@@ -94,7 +94,7 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
 <td valign="top">
 <h4>One Tap. Instant Help.</h4>
       <p>The SOS button is the core reactive safety feature of AlertNet. A single tap immediately broadcasts the user's live GPS coordinates to their entire safety circle and nearby app users.</p>
-      <p>The SOS screen displays a <strong>scannable QR code</strong> containing the user's emergency contact information — allowing a bystander or security guard to access critical details even if the user is incapacitated.</p>
+      <p>The SOS screen displays a <strong>scannable QR code</strong> containing the user's emergency contact information allowing a bystander or security guard to access critical details even if the user is incapacitated.</p>
       <p>The alert deactivates when the user taps <strong>"I'm Safe Now"</strong>, sending a confirmation to all previously notified contacts.</p>
 </td>
 </tr>
@@ -133,10 +133,10 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
 <h4>Your Safety Network</h4>
       <p>The People screen is AlertNet's social safety hub, combining personal contact management with community-wide safety awareness.</p>
       <ul>
-        <li>👤 <strong>My Contacts</strong> — View your safety circle with names, locations, online status, distance, and live <strong>battery percentage</strong></li>
-        <li>💬 <strong>Messaging</strong> — Send direct messages to friends within the app</li>
-        <li>🏘️ <strong>Community Groups</strong> — Emergency group accounts where verified organisations share critical safety updates</li>
-        <li>📢 <strong>Safety Feed</strong> — Post about incidents in your area to warn other users in real time</li>
+        <li>👤 <strong>My Contacts</strong>: View your safety circle with names, locations, online status, distance, and live <strong>battery percentage</strong></li>
+        <li>💬 <strong>Messaging</strong>: Send direct messages to friends within the app</li>
+        <li>🏘️ <strong>Community Groups</strong>: Emergency group accounts where verified organisations share critical safety updates</li>
+        <li>📢 <strong>Safety Feed</strong>: Post about incidents in your area to warn other users in real time</li>
       </ul>
 </td>
 </tr>
@@ -203,7 +203,7 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
 
 | Technology | Purpose |
 |---|---|
-| **Node.js** | Primary backend — asynchronous, non-blocking real-time data handling |
+| **Node.js** | Primary backend | asynchronous, non-blocking real-time data handling |
 | **Firebase Authentication** | Secure user registration, login, and session management |
 | **Firebase Realtime Database** | Live GPS sync, alert status updates, and safety circle data |
 | **SQL (Relational Layer)** | Structured data — audit logs, historical records, reporting |
@@ -253,9 +253,9 @@ AlertNet was validated through a three-phase testing process:
 
 ### Bug Fixes During Development
 
-- **Delayed Notifications** → Resolved by integrating Firebase Cloud Messaging for faster push delivery
-- **Location Lag** → Improved GPS accuracy through background caching optimisation
-- **Voice Feature False Negatives** → Adjusted recognition sensitivity thresholds
+- **Delayed Notifications** | Resolved by integrating Firebase Cloud Messaging for faster push delivery
+- **Location Lag** | Improved GPS accuracy through background caching optimisation
+- **Voice Feature False Negatives** | Adjusted recognition sensitivity thresholds
 
 ---
 
@@ -275,10 +275,10 @@ I was solely responsible for building the entire **People Bar** screen from the 
 - 🔋 **Friends Battery Percentage**: integrated live device battery capture and display so users can see if their contacts are reachable
 - 💬 **Chat Box**: built the in-app direct messaging feature allowing users to communicate with their safety circle
 - 📢 **Community Feed & Groups**: developed the safety feed where users can post local incident warnings, and the community group accounts for verified safety organisations
-- ➕ **Additional People Bar features** — handled all remaining functionality within the screen end to end
+- ➕ **Additional People Bar features**: handled all remaining functionality within the screen end to end
 
 ### 🤖 Frontend: AI Chatbot Integration
-Integrated the **Groq API** into the app to power the AlertNet AI safety chatbot. Beyond answering questions, the chatbot can actively control the app — navigating to any screen, adding new friends to the safety circle, and triggering SOS alerts through simple chat commands, enabling a fully hands-free safety experience.
+Integrated the **Groq API** into the app to power the AlertNet AI safety chatbot. Beyond answering questions, the chatbot can actively control the app navigating to any screen, adding new friends to the safety circle, and triggering SOS alerts through simple chat commands, enabling a fully hands-free safety experience.
 
 ### ⚙️ Backend
 Contributed to backend development including server-side logic, data handling, and API integrations to support the features built on the frontend.
