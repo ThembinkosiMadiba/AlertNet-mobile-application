@@ -49,7 +49,7 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td width="300" valign="top"><img src="./screenshots/Onboarding.gif" width="270"/></td>
-<td width="40"></td>
+<td width="60"></td>
 <td valign="top">
 <h4>Welcome & Sign Up</h4>
       <p>AlertNet opens with a polished onboarding experience that introduces users to the app's core safety features before they sign up.</p>
@@ -71,7 +71,7 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td width="300" valign="top"><img src="./screenshots/Home.gif" width="270"/></td>
-<td width="40"></td>
+<td width="60"></td>
 <td valign="top">
 <h4>Your Safety Dashboard</h4>
       <p>The Home screen is built around a <strong>full-screen interactive map</strong> displaying the user's current location and nearby points of interest.</p>
@@ -93,7 +93,7 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td width="300" valign="top"><img src="./screenshots/SOS.gif" width="270"/></td>
-<td width="40"></td>
+<td width="60"></td>
 <td valign="top">
 <h4>One Tap. Instant Help.</h4>
       <p>The SOS button is the core reactive safety feature of AlertNet. A single tap immediately broadcasts the user's live GPS coordinates to their entire safety circle and nearby app users.</p>
@@ -110,7 +110,7 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td width="300" valign="top"><img src="./screenshots/Walk.gif" width="270"/></td>
-<td width="40"></td>
+<td width="60"></td>
 <td valign="top">
 <h4>Never Walk Alone</h4>
       <p>The Walk Partner feature connects students who need a companion for a journey with verified, nearby users willing to walk together.</p>
@@ -133,7 +133,7 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td width="300" valign="top"><img src="./screenshots/People.gif" width="270"/></td>
-<td width="40"></td>
+<td width="60"></td>
 <td valign="top">
 <h4>Your Safety Network</h4>
       <p>The People screen is AlertNet's social safety hub, combining personal contact management with community-wide safety awareness.</p>
@@ -154,7 +154,7 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td width="300" valign="top"><img src="./screenshots/Help.gif" width="270"/></td>
-<td width="40"></td>
+<td width="60"></td>
 <td valign="top">
 <h4>Help Is One Tap Away</h4>
       <p>The Helpline screen is a static, always-reliable resource for one-tap emergency calling — designed to work fast under pressure without needing to search for numbers.</p>
@@ -173,14 +173,23 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
 
 ### 🤖 AI Safety Chatbot
 
-> **Note:** A screen recording for this feature is not yet available.
-
-AlertNet includes an AI-powered chatbot built using the **Groq API**, giving students instant access to safety guidance and support at any time. The chatbot assists users with:
-
-- 🛡️ **Safety tips** — real-time advice on staying safe in high-risk areas
-- 📍 **App navigation help** — guiding users through features like Walk Partner and SOS
-- 🚨 **Emergency guidance** — step-by-step advice for different emergency situations
-- 💬 **General queries** — fast, conversational responses powered by Groq's ultra-low-latency AI inference engine, delivering answers in milliseconds even under high-stress conditions
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="300" valign="top"><img src="./screenshots/Chatbot.gif" width="270"/></td>
+<td width="60"></td>
+<td valign="top">
+<h4>Your 24/7 Safety Assistant</h4>
+<p>AlertNet includes an AI-powered chatbot built using the <strong>Groq API</strong>, giving students instant access to safety guidance and support at any time.</p>
+<p>The chatbot assists users with:</p>
+<ul>
+  <li>🛡️ <strong>Safety tips</strong> — real-time advice on staying safe in high-risk areas</li>
+  <li>📍 <strong>App navigation help</strong> — guiding users through features like Walk Partner and SOS</li>
+  <li>🚨 <strong>Emergency guidance</strong> — step-by-step advice for different emergency situations</li>
+  <li>💬 <strong>General queries</strong> — fast conversational responses powered by Groq's ultra-low-latency AI inference engine, delivering answers in milliseconds</li>
+</ul>
+</td>
+</tr>
+</table>
 
 ---
 
