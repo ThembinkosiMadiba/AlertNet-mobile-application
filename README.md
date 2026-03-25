@@ -45,79 +45,134 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
 
 ### 🎉 Onboarding
 
-AlertNet opens with a polished onboarding experience that introduces users to the app's core safety features before they sign up. The welcome flow highlights key capabilities and leads directly into the registration screen, where students sign up using their student email, phone number, and a secure password.
-
-<div align="center">
-  <img src="./screenshots/Onboarding.gif" alt="Onboarding" width="250"/>
-</div>
+<table>
+  <tr>
+    <td width="300">
+      <img src="./screenshots/Onboarding.gif" alt="Onboarding" width="280"/>
+    </td>
+    <td valign="top" padding="10">
+      <h4>Welcome & Sign Up</h4>
+      <p>AlertNet opens with a polished onboarding experience that introduces users to the app's core safety features before they sign up.</p>
+      <p>The welcome flow highlights key capabilities and leads directly into the registration screen, where students sign up using their:</p>
+      <ul>
+        <li>📛 Full name</li>
+        <li>📱 Phone number</li>
+        <li>📧 Student email</li>
+        <li>🔒 Secure password</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🏠 Home Screen & Live Map
 
-The Home screen is built around a **full-screen interactive map** displaying the user's current location and nearby points of interest. A prominently placed action bar at the bottom provides instant one-thumb access to all five core navigation tabs: Locator, Walk Me, People, Helpline, and SOS.
-
-Additional home screen features include:
-- 👤 **User profile** accessible from the top navigation bar
-- 🔔 **Notifications icon** for real-time alerts and updates
-- 📸 **Offline Map Download** — users can save a snapshot of the map for use when out of data or without a connection, allowing them to still navigate and find directions offline
-
-<div align="center">
-  <img src="./screenshots/Home.gif" alt="Home Screen" width="250"/>
-</div>
+<table>
+  <tr>
+    <td width="300">
+      <img src="./screenshots/Home.gif" alt="Home Screen" width="280"/>
+    </td>
+    <td valign="top">
+      <h4>Your Safety Dashboard</h4>
+      <p>The Home screen is built around a <strong>full-screen interactive map</strong> displaying the user's current location and nearby points of interest.</p>
+      <p>A prominently placed action bar at the bottom provides instant one-thumb access to all five core navigation tabs: Locator, Walk Me, People, Helpline, and SOS.</p>
+      <p>Additional features include:</p>
+      <ul>
+        <li>👤 <strong>User profile</strong> from the top navigation bar</li>
+        <li>🔔 <strong>Notifications</strong> for real-time alerts and updates</li>
+        <li>📸 <strong>Offline Map Download</strong> — save the map for use when out of data or without a connection, so you can still navigate and find directions offline</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🆘 SOS Emergency Alert
 
-The SOS button is the core reactive safety feature of AlertNet. A single tap immediately broadcasts the user's live GPS coordinates to their entire safety circle and nearby app users. The SOS screen displays a **scannable QR code** containing the user's emergency contact information — allowing a bystander or security guard to access critical details even if the user is incapacitated.
-
-The alert is deactivated when the user taps **"I'm Safe Now"**, sending a confirmation to all previously notified contacts.
-
-<div align="center">
-  <img src="./screenshots/SOS.gif" alt="SOS Emergency Alert" width="250"/>
-</div>
+<table>
+  <tr>
+    <td width="300">
+      <img src="./screenshots/SOS.gif" alt="SOS Emergency Alert" width="280"/>
+    </td>
+    <td valign="top">
+      <h4>One Tap. Instant Help.</h4>
+      <p>The SOS button is the core reactive safety feature of AlertNet. A single tap immediately broadcasts the user's live GPS coordinates to their entire safety circle and nearby app users.</p>
+      <p>The SOS screen displays a <strong>scannable QR code</strong> containing the user's emergency contact information — allowing a bystander or security guard to access critical details even if the user is incapacitated.</p>
+      <p>The alert deactivates when the user taps <strong>"I'm Safe Now"</strong>, sending a confirmation to all previously notified contacts.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🚶 Walk Partner System
 
-The Walk Partner feature connects students who need a companion for a journey with verified, nearby users. A user initiates a request by specifying their destination and estimated duration. Once a partner accepts, a **time-limited shared tracking session** begins — both users see each other's live position, estimated arrival time, route overview, and have access to in-app messaging for pre-trip coordination. The session ends automatically upon safe arrival.
-
-<div align="center">
-  <img src="./screenshots/Walk.gif" alt="Walk Partner" width="250"/>
-</div>
+<table>
+  <tr>
+    <td width="300">
+      <img src="./screenshots/Walk.gif" alt="Walk Partner" width="280"/>
+    </td>
+    <td valign="top">
+      <h4>Never Walk Alone</h4>
+      <p>The Walk Partner feature connects students who need a companion for a journey with verified, nearby users willing to walk together.</p>
+      <p>A user initiates a request by specifying their <strong>destination</strong> and <strong>estimated duration</strong>. Once a partner accepts, a time-limited shared tracking session begins with:</p>
+      <ul>
+        <li>🗺️ Live map showing both users' positions</li>
+        <li>⏱️ Estimated arrival time</li>
+        <li>💬 In-app messaging for coordination</li>
+        <li>🛣️ Full route overview</li>
+      </ul>
+      <p>The session ends automatically upon safe arrival, preserving long-term user privacy.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 👥 People, Community & Safety Circle
 
-The People screen is AlertNet's social safety hub, combining personal contact management with community-wide safety awareness:
-
-- **My Contacts** — View your trusted safety circle with each contact's name, estimated location (e.g. APB Campus), online status, distance in kilometres, and live **battery percentage** so you always know if a contact is reachable
-- **Messaging** — Send direct messages to friends within the app
-- **Community Groups** — Emergency community group accounts where verified organisations share critical safety updates
-- **Safety Feed** — A community-driven feed where users can **post about incidents in their area** to warn others in real time — turning every AlertNet user into a local safety reporter
-
-<div align="center">
-  <img src="./screenshots/People.gif" alt="People & Community" width="250"/>
-</div>
+<table>
+  <tr>
+    <td width="300">
+      <img src="./screenshots/People.gif" alt="People & Community" width="280"/>
+    </td>
+    <td valign="top">
+      <h4>Your Safety Network</h4>
+      <p>The People screen is AlertNet's social safety hub, combining personal contact management with community-wide safety awareness.</p>
+      <ul>
+        <li>👤 <strong>My Contacts</strong> — View your safety circle with names, locations, online status, distance, and live <strong>battery percentage</strong></li>
+        <li>💬 <strong>Messaging</strong> — Send direct messages to friends within the app</li>
+        <li>🏘️ <strong>Community Groups</strong> — Emergency group accounts where verified organisations share critical safety updates</li>
+        <li>📢 <strong>Safety Feed</strong> — Post about incidents in your area to warn other users in real time</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📞 Emergency Helpline
 
-The Helpline screen is a static, always-reliable resource for one-tap emergency calling — designed to work fast under pressure without needing to search for numbers. Pre-configured quick-dial contacts include:
-
-- 🚔 **Police** — 10111
-- 🚑 **Ambulance** — 10177
-- 🏫 **Campus Security** — 011 559 2555
-
-Users can also tap **+ Add** to store additional numbers such as family members or personal medical contacts.
-
-<div align="center">
-  <img src="./screenshots/Help.gif" alt="Emergency Helpline" width="250"/>
-</div>
+<table>
+  <tr>
+    <td width="300">
+      <img src="./screenshots/Help.gif" alt="Emergency Helpline" width="280"/>
+    </td>
+    <td valign="top">
+      <h4>Help Is One Tap Away</h4>
+      <p>The Helpline screen is a static, always-reliable resource for one-tap emergency calling — designed to work fast under pressure without needing to search for numbers.</p>
+      <p>Pre-configured quick-dial contacts include:</p>
+      <ul>
+        <li>🚔 <strong>Police</strong> — 10111</li>
+        <li>🚑 <strong>Ambulance</strong> — 10177</li>
+        <li>🏫 <strong>Campus Security</strong> — 011 559 2555</li>
+      </ul>
+      <p>Users can also tap <strong>+ Add</strong> to store additional numbers such as family members or personal medical contacts.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -208,8 +263,6 @@ As a core member of the AlertNet development team, my contributions spanned acro
 ## 🤝 Team Experience
 
 AlertNet was developed using an **Agile (Scrum)** methodology across a cross-functional team of 7 members from the Information Systems programme, working in close collaboration with a Marketing (MM) student team.
-
-**What made this team experience valuable:**
 
 - 🔄 **Iterative Development** — Working in structured sprints allowed us to incorporate user feedback continuously and refine features before finalisation
 - 🤝 **Cross-Functional Collaboration** — Regular communication between the technical (AIS) and marketing (MM) teams ensured the product was both technically sound and user-centered
