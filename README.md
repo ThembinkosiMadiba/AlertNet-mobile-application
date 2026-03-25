@@ -30,15 +30,15 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
 
 | Feature | Description |
 |---|---|
-| 🏠 **Home & Live Map** | Full-screen interactive map with real-time user locations, offline map download, and instant SOS access |
-| 🎉 **Onboarding** | Welcoming walkthrough that introduces app features and guides new users through account creation |
-| 🆘 **SOS Emergency Alert** | One-tap panic button that instantly notifies your safety circle with your live GPS location and a scannable QR code |
-| 🚶 **Walk Partner System** | Connect with verified nearby users for safe, companioned journeys with live shared tracking |
-| 👥 **People & Community** | Manage your safety circle, view community feeds, post local safety warnings, and message friends |
-| 📞 **Emergency Helpline** | One-tap access to Police (10111), Ambulance (10177), and Campus Security with custom contact support |
-| 🤖 **AI Safety Chatbot** | AI-powered assistant using Groq API, navigate the app, add friends, activate SOS, and get instant safety guidance through chat |
-| 🎙️ **Voice Activation** | Trigger SOS hands-free using a pre-configured panic passphrase |
-| ⚠️ **High-Crime Zone Alerts** | Geofencing-powered notifications when entering known high-risk areas |
+| **Home & Live Map** | Full-screen interactive map with real-time user locations, offline map download, and instant SOS access |
+| **Onboarding** | Welcoming walkthrough that introduces app features and guides new users through account creation |
+| **SOS Emergency Alert** | One-tap panic button that instantly notifies your safety circle with your live GPS location and a scannable QR code |
+| **Walk Partner System** | Connect with verified nearby users for safe, companioned journeys with live shared tracking |
+| **People & Community** | Manage your safety circle, view community feeds, post local safety warnings, and message friends |
+| **Emergency Helpline** | One-tap access to Police (10111), Ambulance (10177), and Campus Security with custom contact support |
+| **AI Safety Chatbot** | AI-powered assistant using Groq API, navigate the app, add friends, activate SOS, and get instant safety guidance through chat |
+| **Voice Activation** | Trigger SOS hands-free using a pre-configured panic passphrase |
+| **High-Crime Zone Alerts** | Geofencing-powered notifications when entering known high-risk areas |
 
 ---
 
