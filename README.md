@@ -36,7 +36,7 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
 | 🚶 **Walk Partner System** | Connect with verified nearby users for safe, companioned journeys with live shared tracking |
 | 👥 **People & Community** | Manage your safety circle, view community feeds, post local safety warnings, and message friends |
 | 📞 **Emergency Helpline** | One-tap access to Police (10111), Ambulance (10177), and Campus Security with custom contact support |
-| 🤖 **AI Safety Chatbot** | 24/7 AI-powered assistant using Groq API for instant safety guidance, emergency advice, and app navigation help |
+| 🤖 **AI Safety Chatbot** | AI-powered assistant using Groq API — navigate the app, add friends, activate SOS, and get instant safety guidance through chat |
 | 🎙️ **Voice Activation** | Trigger SOS hands-free using a pre-configured panic passphrase |
 | ⚠️ **High-Crime Zone Alerts** | Geofencing-powered notifications when entering known high-risk areas |
 
@@ -172,13 +172,15 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
 <td width="300" valign="top" style="padding-right: 60px;"><img src="./screenshots/Chatbot.gif" width="270"/></td>
 <td valign="top">
 <h4>Your 24/7 Safety Assistant</h4>
-<p>AlertNet includes an AI-powered chatbot built using the <strong>Groq API</strong>, giving students instant access to safety guidance and support at any time.</p>
-<p>The chatbot assists users with:</p>
+<p>AlertNet includes an AI-powered chatbot built using the <strong>Groq API</strong>, giving students instant access to safety guidance, app control, and emergency support at any time.</p>
+<p>The chatbot goes beyond just answering questions — it can actively perform actions inside the app on your behalf:</p>
 <ul>
-  <li>🛡️ <strong>Safety tips</strong> — real-time advice on staying safe in high-risk areas</li>
-  <li>📍 <strong>App navigation help</strong> — guiding users through features like Walk Partner and SOS</li>
-  <li>🚨 <strong>Emergency guidance</strong> — step-by-step advice for different emergency situations</li>
-  <li>💬 <strong>General queries</strong> — fast conversational responses powered by Groq's ultra-low-latency AI inference engine, delivering answers in milliseconds</li>
+  <li>🧭 <strong>App Navigation</strong> — navigate to any screen in the app faster using a simple chat command, no tapping required</li>
+  <li>👤 <strong>Add New Friends</strong> — find and add friends to your safety circle directly through the chatbot</li>
+  <li>🆘 <strong>Activate SOS</strong> — trigger an emergency SOS alert hands-free through a chat message when you need help fast</li>
+  <li>🛡️ <strong>Safety Tips</strong> — real-time advice on staying safe in high-risk areas</li>
+  <li>🚨 <strong>Emergency Guidance</strong> — step-by-step advice for different emergency situations</li>
+  <li>💬 <strong>General Queries</strong> — fast conversational responses powered by Groq's ultra-low-latency AI inference engine, delivering answers in milliseconds</li>
 </ul>
 </td>
 </tr>
@@ -276,7 +278,7 @@ I was solely responsible for building the entire **People Bar** screen from the 
 - ➕ **Additional People Bar features** — handled all remaining functionality within the screen end to end
 
 ### 🤖 Frontend — AI Chatbot Integration
-Integrated the **Groq API** into the app to power the AlertNet AI safety chatbot, enabling fast, low-latency conversational responses for safety guidance, emergency advice, and app support.
+Integrated the **Groq API** into the app to power the AlertNet AI safety chatbot. Beyond answering questions, the chatbot can actively control the app — navigating to any screen, adding new friends to the safety circle, and triggering SOS alerts through simple chat commands, enabling a fully hands-free safety experience.
 
 ### ⚙️ Backend
 Contributed to backend development including server-side logic, data handling, and API integrations to support the features built on the frontend.
