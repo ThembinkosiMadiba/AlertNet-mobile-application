@@ -154,9 +154,9 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
       <p>The Helpline screen is a static, always-reliable resource for one-tap emergency calling — designed to work fast under pressure without needing to search for numbers.</p>
       <p>Pre-configured quick-dial contacts include:</p>
       <ul>
-        <li>🚔 <strong>Police</strong> | 10111</li>
-        <li>🚑 <strong>Ambulance</strong> | 10177</li>
-        <li>🏫 <strong>Campus Security</strong> | 011 559 2555</li>
+        <li><strong>Police</strong> | 10111</li>
+        <li><strong>Ambulance</strong> | 10177</li>
+        <li><strong>Campus Security</strong> | 011 559 2555</li>
       </ul>
       <p>Users can also tap <strong>+ Add</strong> to store additional numbers such as family members or personal medical contacts.</p>
 </td>
@@ -331,7 +331,7 @@ The project proved that real-world problems can be tackled with well-chosen tech
 | Nathi Gumede | 222021634 |
 
 **Supervisor:** Thamie Mhlanga  
-**Module:** Information System 3B — 250PRO001  
+**Module:** IS Project | 250PRO001  
 **Institution:** University of Johannesburg
 
 ---
