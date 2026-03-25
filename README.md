@@ -154,9 +154,9 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
       <p>The Helpline screen is a static, always-reliable resource for one-tap emergency calling — designed to work fast under pressure without needing to search for numbers.</p>
       <p>Pre-configured quick-dial contacts include:</p>
       <ul>
-        <li>🚔 <strong>Police</strong> — 10111</li>
-        <li>🚑 <strong>Ambulance</strong> — 10177</li>
-        <li>🏫 <strong>Campus Security</strong> — 011 559 2555</li>
+        <li>🚔 <strong>Police</strong> | 10111</li>
+        <li>🚑 <strong>Ambulance</strong> | 10177</li>
+        <li>🏫 <strong>Campus Security</strong> | 011 559 2555</li>
       </ul>
       <p>Users can also tap <strong>+ Add</strong> to store additional numbers such as family members or personal medical contacts.</p>
 </td>
@@ -175,12 +175,12 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
 <p>AlertNet includes an AI-powered chatbot built using the <strong>Groq API</strong>, giving students instant access to safety guidance, app control, and emergency support at any time.</p>
 <p>The chatbot goes beyond just answering questions — it can actively perform actions inside the app on your behalf:</p>
 <ul>
-  <li>🧭 <strong>App Navigation</strong> — navigate to any screen in the app faster using a simple chat command, no tapping required</li>
-  <li>👤 <strong>Add New Friends</strong> — find and add friends to your safety circle directly through the chatbot</li>
-  <li>🆘 <strong>Activate SOS</strong> — trigger an emergency SOS alert hands-free through a chat message when you need help fast</li>
-  <li>🛡️ <strong>Safety Tips</strong> — real-time advice on staying safe in high-risk areas</li>
-  <li>🚨 <strong>Emergency Guidance</strong> — step-by-step advice for different emergency situations</li>
-  <li>💬 <strong>General Queries</strong> — fast conversational responses powered by Groq's ultra-low-latency AI inference engine, delivering answers in milliseconds</li>
+  <li>🧭 <strong>App Navigation</strong>: navigate to any screen in the app faster using a simple chat command, no tapping required</li>
+  <li>👤 <strong>Add New Friends</strong>: find and add friends to your safety circle directly through the chatbot</li>
+  <li>🆘 <strong>Activate SOS</strong>: trigger an emergency SOS alert hands-free through a chat message when you need help fast</li>
+  <li>🛡️ <strong>Safety Tips</strong>: real-time advice on staying safe in high-risk areas</li>
+  <li>🚨 <strong>Emergency Guidance</strong>: step-by-step advice for different emergency situations</li>
+  <li>💬 <strong>General Queries</strong>: fast conversational responses powered by Groq's ultra-low-latency AI inference engine, delivering answers in milliseconds</li>
 </ul>
 </td>
 </tr>
