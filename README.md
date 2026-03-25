@@ -46,10 +46,11 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
 
 ### 🎉 Onboarding
 
-<div>
-<img align="left" hspace="20" src="./screenshots/Onboarding.gif" width="280" style="margin-right: 40px; margin-bottom: 20px"/>
-<div>
-
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="300" valign="top"><img src="./screenshots/Onboarding.gif" width="270"/></td>
+<td width="40"></td>
+<td valign="top">
 <h4>Welcome & Sign Up</h4>
       <p>AlertNet opens with a polished onboarding experience that introduces users to the app's core safety features before they sign up.</p>
       <p>The welcome flow highlights key capabilities and leads directly into the registration screen, where students sign up using their:</p>
@@ -59,19 +60,19 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
         <li>📧 Student email</li>
         <li>🔒 Secure password</li>
       </ul>
-
-</div>
-<br clear="left"/>
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🏠 Home Screen & Live Map
 
-<div>
-<img align="left" hspace="20" src="./screenshots/Home.gif" width="280" style="margin-right: 40px; margin-bottom: 20px"/>
-<div>
-
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="300" valign="top"><img src="./screenshots/Home.gif" width="270"/></td>
+<td width="40"></td>
+<td valign="top">
 <h4>Your Safety Dashboard</h4>
       <p>The Home screen is built around a <strong>full-screen interactive map</strong> displaying the user's current location and nearby points of interest.</p>
       <p>A prominently placed action bar at the bottom provides instant one-thumb access to all five core navigation tabs: Locator, Walk Me, People, Helpline, and SOS.</p>
@@ -81,36 +82,36 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
         <li>🔔 <strong>Notifications</strong> for real-time alerts and updates</li>
         <li>📸 <strong>Offline Map Download</strong> — save the map for use when out of data or without a connection, so you can still navigate and find directions offline</li>
       </ul>
-
-</div>
-<br clear="left"/>
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🆘 SOS Emergency Alert
 
-<div>
-<img align="left" hspace="20" src="./screenshots/SOS.gif" width="280" style="margin-right: 40px; margin-bottom: 20px"/>
-<div>
-
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="300" valign="top"><img src="./screenshots/SOS.gif" width="270"/></td>
+<td width="40"></td>
+<td valign="top">
 <h4>One Tap. Instant Help.</h4>
       <p>The SOS button is the core reactive safety feature of AlertNet. A single tap immediately broadcasts the user's live GPS coordinates to their entire safety circle and nearby app users.</p>
       <p>The SOS screen displays a <strong>scannable QR code</strong> containing the user's emergency contact information — allowing a bystander or security guard to access critical details even if the user is incapacitated.</p>
       <p>The alert deactivates when the user taps <strong>"I'm Safe Now"</strong>, sending a confirmation to all previously notified contacts.</p>
-
-</div>
-<br clear="left"/>
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🚶 Walk Partner System
 
-<div>
-<img align="left" hspace="20" src="./screenshots/Walk.gif" width="280" style="margin-right: 40px; margin-bottom: 20px"/>
-<div>
-
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="300" valign="top"><img src="./screenshots/Walk.gif" width="270"/></td>
+<td width="40"></td>
+<td valign="top">
 <h4>Never Walk Alone</h4>
       <p>The Walk Partner feature connects students who need a companion for a journey with verified, nearby users willing to walk together.</p>
       <p>A user initiates a request by specifying their <strong>destination</strong> and <strong>estimated duration</strong>. Once a partner accepts, a time-limited shared tracking session begins with:</p>
@@ -121,19 +122,19 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
         <li>🛣️ Full route overview</li>
       </ul>
       <p>The session ends automatically upon safe arrival, preserving long-term user privacy.</p>
-
-</div>
-<br clear="left"/>
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 ### 👥 People, Community & Safety Circle
 
-<div>
-<img align="left" hspace="20" src="./screenshots/People.gif" width="280" style="margin-right: 40px; margin-bottom: 20px"/>
-<div>
-
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="300" valign="top"><img src="./screenshots/People.gif" width="270"/></td>
+<td width="40"></td>
+<td valign="top">
 <h4>Your Safety Network</h4>
       <p>The People screen is AlertNet's social safety hub, combining personal contact management with community-wide safety awareness.</p>
       <ul>
@@ -142,19 +143,19 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
         <li>🏘️ <strong>Community Groups</strong> — Emergency group accounts where verified organisations share critical safety updates</li>
         <li>📢 <strong>Safety Feed</strong> — Post about incidents in your area to warn other users in real time</li>
       </ul>
-
-</div>
-<br clear="left"/>
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 ### 📞 Emergency Helpline
 
-<div>
-<img align="left" hspace="20" src="./screenshots/Help.gif" width="280" style="margin-right: 40px; margin-bottom: 20px"/>
-<div>
-
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="300" valign="top"><img src="./screenshots/Help.gif" width="270"/></td>
+<td width="40"></td>
+<td valign="top">
 <h4>Help Is One Tap Away</h4>
       <p>The Helpline screen is a static, always-reliable resource for one-tap emergency calling — designed to work fast under pressure without needing to search for numbers.</p>
       <p>Pre-configured quick-dial contacts include:</p>
@@ -164,10 +165,9 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
         <li>🏫 <strong>Campus Security</strong> — 011 559 2555</li>
       </ul>
       <p>Users can also tap <strong>+ Add</strong> to store additional numbers such as family members or personal medical contacts.</p>
-
-</div>
-<br clear="left"/>
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
