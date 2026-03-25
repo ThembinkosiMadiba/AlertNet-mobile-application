@@ -263,15 +263,27 @@ AlertNet was validated through a three-phase testing process:
 
 ## 👨‍💻 My Contribution
 
-As a core member of the AlertNet development team, my contributions spanned across the full development lifecycle:
+As a core member of the AlertNet development team, I was responsible for the following areas:
 
-- **UI/UX Design** — Designed intuitive, stress-responsive interfaces with a focus on minimal cognitive load during emergencies. Implemented the five-tab bottom navigation system for one-thumb accessibility
-- **Firebase Integration** — Configured Firebase Authentication for secure user management and implemented real-time data pipelines for location tracking and alert delivery
-- **API Integration** — Integrated Google Maps, Geofencing, Geocoding, and Directions APIs to power location-based features and crime zone alerts
-- **SOS Module Development** — Built the core emergency alert flow including GPS capture, contact notification, QR code generation, and the safe deactivation sequence
-- **Walk Partner Algorithm** — Contributed to the proximity-based matching logic and time-limited shared tracking session implementation
-- **Community Feed** — Developed the safety feed and community group features enabling users to post local warnings and stay informed
-- **Testing** — Participated in unit testing, integration testing, and UAT sessions to identify and resolve usability and performance issues
+### 🎨 UI/UX Design
+Designed intuitive, stress-responsive interfaces across the app with a focus on minimising cognitive load during emergencies. Ensured visual consistency, accessibility, and ease of use across all screens.
+
+### 🖥️ Frontend — People & Community Screen (Full Ownership)
+I was solely responsible for building the entire **People Bar** screen from the ground up, including every feature within it:
+
+- 👤 **Add User** — built the flow for searching and sending friend requests to other users
+- ✅ **Accept Friends** — implemented the friend request acceptance system and contact list management
+- 🔔 **In-App Notifications** — developed the real-time notification system to alert users of friend requests, safety updates, and community activity
+- 🔋 **Friends Battery Percentage** — integrated live device battery capture and display so users can see if their contacts are reachable
+- 💬 **Chat Box** — built the in-app direct messaging feature allowing users to communicate with their safety circle
+- 📢 **Community Feed & Groups** — developed the safety feed where users can post local incident warnings, and the community group accounts for verified safety organisations
+- ➕ **Additional People Bar features** — handled all remaining functionality within the screen end to end
+
+### 🤖 Frontend — AI Chatbot Integration
+Integrated the **Groq API** into the app to power the AlertNet AI safety chatbot, enabling fast, low-latency conversational responses for safety guidance, emergency advice, and app support.
+
+### ⚙️ Backend
+Contributed to backend development including server-side logic, data handling, and API integrations to support the features built on the frontend.
 
 ---
 
