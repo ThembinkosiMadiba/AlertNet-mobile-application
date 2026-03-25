@@ -54,10 +54,10 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
       <p>AlertNet opens with a polished onboarding experience that introduces users to the app's core safety features before they sign up.</p>
       <p>The welcome flow highlights key capabilities and leads directly into the registration screen, where students sign up using their:</p>
       <ul>
-        <li>📛 Full name</li>
-        <li>📱 Phone number</li>
-        <li>📧 Student email</li>
-        <li>🔒 Secure password</li>
+        <li>Full name</li>
+        <li>Phone number</li>
+        <li>Student email</li>
+        <li>Secure password</li>
       </ul>
 </td>
 </tr>
@@ -76,9 +76,9 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
       <p>A prominently placed action bar at the bottom provides instant one-thumb access to all five core navigation tabs: Locator, Walk Me, People, Helpline, and SOS.</p>
       <p>Additional features include:</p>
       <ul>
-        <li>👤 <strong>User profile</strong> from the top navigation bar</li>
-        <li>🔔 <strong>Notifications</strong> for real-time alerts and updates</li>
-        <li>📸 <strong>Offline Map Download</strong> — save the map for use when out of data or without a connection, so you can still navigate and find directions offline</li>
+        <li><strong>User profile</strong> from the top navigation bar</li>
+        <li><strong>Notifications</strong> for real-time alerts and updates</li>
+        <li><strong>Offline Map Download</strong> — save the map for use when out of data or without a connection, so you can still navigate and find directions offline</li>
       </ul>
 </td>
 </tr>
@@ -112,10 +112,10 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
       <p>The Walk Partner feature connects students who need a companion for a journey with verified, nearby users willing to walk together.</p>
       <p>A user initiates a request by specifying their <strong>destination</strong> and <strong>estimated duration</strong>. Once a partner accepts, a time-limited shared tracking session begins with:</p>
       <ul>
-        <li>🗺️ Live map showing both users' positions</li>
-        <li>⏱️ Estimated arrival time</li>
-        <li>💬 In-app messaging for coordination</li>
-        <li>🛣️ Full route overview</li>
+        <li>Live map showing both users' positions</li>
+        <li>Estimated arrival time</li>
+        <li>In-app messaging for coordination</li>
+        <li>Full route overview</li>
       </ul>
       <p>The session ends automatically upon safe arrival, preserving long-term user privacy.</p>
 </td>
@@ -133,10 +133,10 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
 <h4>Your Safety Network</h4>
       <p>The People screen is AlertNet's social safety hub, combining personal contact management with community-wide safety awareness.</p>
       <ul>
-        <li>👤 <strong>My Contacts</strong>: View your safety circle with names, locations, online status, distance, and live <strong>battery percentage</strong></li>
-        <li>💬 <strong>Messaging</strong>: Send direct messages to friends within the app</li>
-        <li>🏘️ <strong>Community Groups</strong>: Emergency group accounts where verified organisations share critical safety updates</li>
-        <li>📢 <strong>Safety Feed</strong>: Post about incidents in your area to warn other users in real time</li>
+        <li><strong>My Contacts</strong>: View your safety circle with names, locations, online status, distance, and live <strong>battery percentage</strong></li>
+        <li><strong>Messaging</strong>: Send direct messages to friends within the app</li>
+        <li><strong>Community Groups</strong>: Emergency group accounts where verified organisations share critical safety updates</li>
+        <li><strong>Safety Feed</strong>: Post about incidents in your area to warn other users in real time</li>
       </ul>
 </td>
 </tr>
@@ -175,12 +175,12 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
 <p>AlertNet includes an AI-powered chatbot built using the <strong>Groq API</strong>, giving students instant access to safety guidance, app control, and emergency support at any time.</p>
 <p>The chatbot goes beyond just answering questions — it can actively perform actions inside the app on your behalf:</p>
 <ul>
-  <li>🧭 <strong>App Navigation</strong>: navigate to any screen in the app faster using a simple chat command, no tapping required</li>
-  <li>👤 <strong>Add New Friends</strong>: find and add friends to your safety circle directly through the chatbot</li>
-  <li>🆘 <strong>Activate SOS</strong>: trigger an emergency SOS alert hands-free through a chat message when you need help fast</li>
-  <li>🛡️ <strong>Safety Tips</strong>: real-time advice on staying safe in high-risk areas</li>
-  <li>🚨 <strong>Emergency Guidance</strong>: step-by-step advice for different emergency situations</li>
-  <li>💬 <strong>General Queries</strong>: fast conversational responses powered by Groq's ultra-low-latency AI inference engine, delivering answers in milliseconds</li>
+  <li><strong>App Navigation</strong>: navigate to any screen in the app faster using a simple chat command, no tapping required</li>
+  <li><strong>Add New Friends</strong>: find and add friends to your safety circle directly through the chatbot</li>
+  <li><strong>Activate SOS</strong>: trigger an emergency SOS alert hands-free through a chat message when you need help fast</li>
+  <li><strong>Safety Tips</strong>: real-time advice on staying safe in high-risk areas</li>
+  <li><strong>Emergency Guidance</strong>: step-by-step advice for different emergency situations</li>
+  <li><strong>General Queries</strong>: fast conversational responses powered by Groq's ultra-low-latency AI inference engine, delivering answers in milliseconds</li>
 </ul>
 </td>
 </tr>
@@ -236,10 +236,10 @@ AlertNet was validated through a three-phase testing process:
 
 | Metric | Result |
 |---|---|
-| ⚡ Average SOS alert response time | **2.7 seconds** |
-| 📍 Location tracking accuracy | **99%** |
-| 🔔 Notification delivery success rate | **98%** |
-| 🟢 System uptime target | **> 99%** |
+| Average SOS alert response time | **2.7 seconds** |
+| Location tracking accuracy | **99%** |
+| Notification delivery success rate | **98%** |
+| System uptime target | **> 99%** |
 
 ### Key Test Results
 
@@ -269,18 +269,18 @@ Designed intuitive, stress-responsive interfaces across the app with a focus on 
 ### 🖥️ Frontend: People & Community Screen (Full Ownership)
 I was solely responsible for building the entire **People Bar** screen from the ground up, including every feature within it:
 
-- 👤 **Add User**: built the flow for searching and sending friend requests to other users
-- ✅ **Accept Friends**: implemented the friend request acceptance system and contact list management
-- 🔔 **In-App Notifications**: developed the real-time notification system to alert users of friend requests, safety updates, and community activity
-- 🔋 **Friends Battery Percentage**: integrated live device battery capture and display so users can see if their contacts are reachable
-- 💬 **Chat Box**: built the in-app direct messaging feature allowing users to communicate with their safety circle
-- 📢 **Community Feed & Groups**: developed the safety feed where users can post local incident warnings, and the community group accounts for verified safety organisations
-- ➕ **Additional People Bar features**: handled all remaining functionality within the screen end to end
+- **Add User**: built the flow for searching and sending friend requests to other users
+- **Accept Friends**: implemented the friend request acceptance system and contact list management
+- **In-App Notifications**: developed the real-time notification system to alert users of friend requests, safety updates, and community activity
+- **Friends Battery Percentage**: integrated live device battery capture and display so users can see if their contacts are reachable
+- **Chat Box**: built the in-app direct messaging feature allowing users to communicate with their safety circle
+- **Community Feed & Groups**: developed the safety feed where users can post local incident warnings, and the community group accounts for verified safety organisations
+- **Additional People Bar features**: handled all remaining functionality within the screen end to end
 
-### 🤖 Frontend: AI Chatbot Integration
+### Frontend: AI Chatbot Integration
 Integrated the **Groq API** into the app to power the AlertNet AI safety chatbot. Beyond answering questions, the chatbot can actively control the app navigating to any screen, adding new friends to the safety circle, and triggering SOS alerts through simple chat commands, enabling a fully hands-free safety experience.
 
-### ⚙️ Backend
+### Backend
 Contributed to backend development including server-side logic, data handling, and API integrations to support the features built on the frontend.
 
 ---
@@ -289,10 +289,10 @@ Contributed to backend development including server-side logic, data handling, a
 
 AlertNet was developed using an **Agile (Scrum)** methodology across a cross-functional team of 7 members from the Information Systems programme, working in close collaboration with a Marketing (MM) student team.
 
-- 🔄 **Iterative Development** | Working in structured sprints allowed us to incorporate user feedback continuously and refine features before finalisation
-- 🤝 **Cross-Functional Collaboration** | Regular communication between the technical (AIS) and marketing (MM) teams ensured the product was both technically sound and user-centered
-- 🧩 **Problem-Solving Under Constraints** | With limited testing resources during an active academic term, we adapted by conducting simulated user journeys and recording usability data
-- 🌍 **Real-World Impact Mindset** | Every decision was grounded in solving a genuine safety problem affecting real students in our community
+- **Iterative Development** | Working in structured sprints allowed us to incorporate user feedback continuously and refine features before finalisation
+- **Cross-Functional Collaboration** | Regular communication between the technical (AIS) and marketing (MM) teams ensured the product was both technically sound and user-centered
+- **Problem-Solving Under Constraints** | With limited testing resources during an active academic term, we adapted by conducting simulated user journeys and recording usability data
+- **Real-World Impact Mindset** | Every decision was grounded in solving a genuine safety problem affecting real students in our community
 
 ---
 
@@ -300,13 +300,13 @@ AlertNet was developed using an **Agile (Scrum)** methodology across a cross-fun
 
 | Improvement | Description |
 |---|---|
-| 📵 **Offline SOS (SMS Fallback)** | SMS-based alert delivery for areas with no internet connectivity |
-| 🚔 **Authority Integration** | Partner with SAPS and campus security for real-time response and verified data sharing |
-| 🎙️ **Voice Feature Enhancement** | Improve passphrase recognition accuracy in high-noise environments |
-| 🔋 **Battery Optimisation** | Implement adaptive GPS refresh rates to reduce power consumption |
-| 🌐 **Multilingual Support** | Add isiZulu, Afrikaans, and Sesotho for broader accessibility |
-| ♿ **Accessibility Features** | Voice feedback and screen reader support for visually impaired users |
-| 🏫 **Campus Pilot Deployment** | Structured pilot testing within UJ campuses before public release |
+| **Offline SOS (SMS Fallback)** | SMS-based alert delivery for areas with no internet connectivity |
+| **Authority Integration** | Partner with SAPS and campus security for real-time response and verified data sharing |
+| **Voice Feature Enhancement** | Improve passphrase recognition accuracy in high-noise environments |
+| **Battery Optimisation** | Implement adaptive GPS refresh rates to reduce power consumption |
+| **Multilingual Support** | Add isiZulu, Afrikaans, and Sesotho for broader accessibility |
+| **Accessibility Features** | Voice feedback and screen reader support for visually impaired users |
+| **Campus Pilot Deployment** | Structured pilot testing within UJ campuses before public release |
 
 ---
 
