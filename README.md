@@ -36,6 +36,7 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
 | 🚶 **Walk Partner System** | Connect with verified nearby users for safe, companioned journeys with live shared tracking |
 | 👥 **People & Community** | Manage your safety circle, view community feeds, post local safety warnings, and message friends |
 | 📞 **Emergency Helpline** | One-tap access to Police (10111), Ambulance (10177), and Campus Security with custom contact support |
+| 🤖 **AI Safety Chatbot** | 24/7 AI-powered assistant using Groq API for instant safety guidance, emergency advice, and app navigation help |
 | 🎙️ **Voice Activation** | Trigger SOS hands-free using a pre-configured panic passphrase |
 | ⚠️ **High-Crime Zone Alerts** | Geofencing-powered notifications when entering known high-risk areas |
 
@@ -176,6 +177,19 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
 
 ---
 
+### 🤖 AI Safety Chatbot
+
+> **Note:** A screen recording for this feature is not yet available.
+
+AlertNet includes an AI-powered chatbot built using the **Groq API**, giving students instant access to safety guidance and support at any time. The chatbot assists users with:
+
+- 🛡️ **Safety tips** — real-time advice on staying safe in high-risk areas
+- 📍 **App navigation help** — guiding users through features like Walk Partner and SOS
+- 🚨 **Emergency guidance** — step-by-step advice for different emergency situations
+- 💬 **General queries** — fast, conversational responses powered by Groq's ultra-low-latency AI inference engine, delivering answers in milliseconds even under high-stress conditions
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -206,6 +220,7 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
 | **Firebase Cloud Messaging (FCM)** | Reliable push notifications to emergency contacts |
 | **YouTube API** | Linked safety resource videos (keeps app lightweight) |
 | **Resend** | Automated email notifications to emergency contacts |
+| **Groq API** | Ultra-fast AI inference engine powering the in-app safety chatbot |
 
 ---
 
