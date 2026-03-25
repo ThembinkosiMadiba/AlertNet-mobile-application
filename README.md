@@ -340,10 +340,3 @@ The project proved that real-world problems can be tackled with well-chosen tech
 
 This project was developed as an academic submission. All rights reserved by the AlertNet development team © 2025.
 
----
-
-<div align="center">
-
-**Built with ❤️ to make campuses safer — one alert at a time.**
-
-</div>
