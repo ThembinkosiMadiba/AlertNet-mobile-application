@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ AlertNet — Student Safety Mobile App
+# 🛡️ AlertNet: Student Safety Mobile App
 
 **A cross-platform mobile safety application designed to protect students in and around university campuses through real-time tracking, community-driven support, and instant emergency alerts.**
 
@@ -20,7 +20,7 @@
 
 Traditional personal safety measures are often reactive, expensive, or inadequate for students navigating complex urban environments. AlertNet fills this gap by combining **real-time emergency alerting**, **community-driven safety networks**, and **proactive crime zone awareness** into a single, accessible, and affordable application.
 
-Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, AlertNet delivers reliable, fast, and scalable performance across both Android and iOS — empowering students to move safer, smarter, and together.
+Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, AlertNet delivers reliable, fast, and scalable performance across both Android and iOS, empowering students to move safer, smarter, and together.
 
 > 🌍 Aligned with **UN Sustainable Development Goal 11** (Safe and Inclusive Communities) and the **Fourth Industrial Revolution (4IR)** framework.
 
@@ -36,7 +36,7 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
 | 🚶 **Walk Partner System** | Connect with verified nearby users for safe, companioned journeys with live shared tracking |
 | 👥 **People & Community** | Manage your safety circle, view community feeds, post local safety warnings, and message friends |
 | 📞 **Emergency Helpline** | One-tap access to Police (10111), Ambulance (10177), and Campus Security with custom contact support |
-| 🤖 **AI Safety Chatbot** | AI-powered assistant using Groq API — navigate the app, add friends, activate SOS, and get instant safety guidance through chat |
+| 🤖 **AI Safety Chatbot** | AI-powered assistant using Groq API, navigate the app, add friends, activate SOS, and get instant safety guidance through chat |
 | 🎙️ **Voice Activation** | Trigger SOS hands-free using a pre-configured panic passphrase |
 | ⚠️ **High-Crime Zone Alerts** | Geofencing-powered notifications when entering known high-risk areas |
 
@@ -228,9 +228,9 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
 
 AlertNet was validated through a three-phase testing process:
 
-- **Unit Testing** — Individual module verification including SOS activation, Walk Partner request flow, and contact synchronisation
-- **Integration Testing** — Verified seamless communication between the app, Firebase, and Google APIs (geofencing and location tracking)
-- **User Acceptance Testing (UAT)** — Conducted with university students in simulated emergency scenarios to assess real-world performance and usability
+- **Unit Testing**: Individual module verification including SOS activation, Walk Partner request flow, and contact synchronisation
+- **Integration Testing**: Verified seamless communication between the app, Firebase, and Google APIs (geofencing and location tracking)
+- **User Acceptance Testing (UAT)**: Conducted with university students in simulated emergency scenarios to assess real-world performance and usability
 
 ### Performance Metrics
 
@@ -266,18 +266,18 @@ As a core member of the AlertNet development team, I was responsible for the fol
 ### 🎨 UI/UX Design
 Designed intuitive, stress-responsive interfaces across the app with a focus on minimising cognitive load during emergencies. Ensured visual consistency, accessibility, and ease of use across all screens.
 
-### 🖥️ Frontend — People & Community Screen (Full Ownership)
+### 🖥️ Frontend: People & Community Screen (Full Ownership)
 I was solely responsible for building the entire **People Bar** screen from the ground up, including every feature within it:
 
-- 👤 **Add User** — built the flow for searching and sending friend requests to other users
-- ✅ **Accept Friends** — implemented the friend request acceptance system and contact list management
-- 🔔 **In-App Notifications** — developed the real-time notification system to alert users of friend requests, safety updates, and community activity
-- 🔋 **Friends Battery Percentage** — integrated live device battery capture and display so users can see if their contacts are reachable
-- 💬 **Chat Box** — built the in-app direct messaging feature allowing users to communicate with their safety circle
-- 📢 **Community Feed & Groups** — developed the safety feed where users can post local incident warnings, and the community group accounts for verified safety organisations
+- 👤 **Add User**: built the flow for searching and sending friend requests to other users
+- ✅ **Accept Friends**: implemented the friend request acceptance system and contact list management
+- 🔔 **In-App Notifications**: developed the real-time notification system to alert users of friend requests, safety updates, and community activity
+- 🔋 **Friends Battery Percentage**: integrated live device battery capture and display so users can see if their contacts are reachable
+- 💬 **Chat Box**: built the in-app direct messaging feature allowing users to communicate with their safety circle
+- 📢 **Community Feed & Groups**: developed the safety feed where users can post local incident warnings, and the community group accounts for verified safety organisations
 - ➕ **Additional People Bar features** — handled all remaining functionality within the screen end to end
 
-### 🤖 Frontend — AI Chatbot Integration
+### 🤖 Frontend: AI Chatbot Integration
 Integrated the **Groq API** into the app to power the AlertNet AI safety chatbot. Beyond answering questions, the chatbot can actively control the app — navigating to any screen, adding new friends to the safety circle, and triggering SOS alerts through simple chat commands, enabling a fully hands-free safety experience.
 
 ### ⚙️ Backend
@@ -289,10 +289,10 @@ Contributed to backend development including server-side logic, data handling, a
 
 AlertNet was developed using an **Agile (Scrum)** methodology across a cross-functional team of 7 members from the Information Systems programme, working in close collaboration with a Marketing (MM) student team.
 
-- 🔄 **Iterative Development** — Working in structured sprints allowed us to incorporate user feedback continuously and refine features before finalisation
-- 🤝 **Cross-Functional Collaboration** — Regular communication between the technical (AIS) and marketing (MM) teams ensured the product was both technically sound and user-centered
-- 🧩 **Problem-Solving Under Constraints** — With limited testing resources during an active academic term, we adapted by conducting simulated user journeys and recording usability data
-- 🌍 **Real-World Impact Mindset** — Every decision was grounded in solving a genuine safety problem affecting real students in our community
+- 🔄 **Iterative Development** | Working in structured sprints allowed us to incorporate user feedback continuously and refine features before finalisation
+- 🤝 **Cross-Functional Collaboration** | Regular communication between the technical (AIS) and marketing (MM) teams ensured the product was both technically sound and user-centered
+- 🧩 **Problem-Solving Under Constraints** | With limited testing resources during an active academic term, we adapted by conducting simulated user journeys and recording usability data
+- 🌍 **Real-World Impact Mindset** | Every decision was grounded in solving a genuine safety problem affecting real students in our community
 
 ---
 
@@ -314,7 +314,7 @@ AlertNet was developed using an **Agile (Scrum)** methodology across a cross-fun
 
 AlertNet demonstrates that mobile technology, when thoughtfully designed, can serve as a powerful equaliser for community safety. By combining proactive alerts, community-driven features, and reactive emergency tools into a single, affordable, and accessible application, AlertNet addresses a genuine and urgent need for South African students navigating high-risk urban environments.
 
-The project proved that real-world problems can be tackled with well-chosen technology, collaborative teamwork, and a user-first design philosophy. With further development — particularly offline capability, authority integration, and broader deployment — AlertNet has strong potential to become a meaningful safety infrastructure tool across South Africa and beyond.
+The project proved that real-world problems can be tackled with well-chosen technology, collaborative teamwork, and a user-first design philosophy. With further development particularly offline capability, authority integration, and broader deployment AlertNet has strong potential to become a meaningful safety infrastructure tool across South Africa and beyond.
 
 ---
 
