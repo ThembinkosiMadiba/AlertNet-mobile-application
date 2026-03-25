@@ -47,7 +47,7 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
 ### 🎉 Onboarding
 
 <div>
-<img align="left" src="./screenshots/Onboarding.gif" width="280" style="margin-right: 20px"/>
+<img align="left" hspace="20" src="./screenshots/Onboarding.gif" width="280" style="margin-right: 40px; margin-bottom: 20px"/>
 <div>
 
 <h4>Welcome & Sign Up</h4>
@@ -69,7 +69,7 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
 ### 🏠 Home Screen & Live Map
 
 <div>
-<img align="left" src="./screenshots/Home.gif" width="280" style="margin-right: 20px"/>
+<img align="left" hspace="20" src="./screenshots/Home.gif" width="280" style="margin-right: 40px; margin-bottom: 20px"/>
 <div>
 
 <h4>Your Safety Dashboard</h4>
@@ -91,7 +91,7 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
 ### 🆘 SOS Emergency Alert
 
 <div>
-<img align="left" src="./screenshots/SOS.gif" width="280" style="margin-right: 20px"/>
+<img align="left" hspace="20" src="./screenshots/SOS.gif" width="280" style="margin-right: 40px; margin-bottom: 20px"/>
 <div>
 
 <h4>One Tap. Instant Help.</h4>
@@ -108,7 +108,7 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
 ### 🚶 Walk Partner System
 
 <div>
-<img align="left" src="./screenshots/Walk.gif" width="280" style="margin-right: 20px"/>
+<img align="left" hspace="20" src="./screenshots/Walk.gif" width="280" style="margin-right: 40px; margin-bottom: 20px"/>
 <div>
 
 <h4>Never Walk Alone</h4>
@@ -131,7 +131,7 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
 ### 👥 People, Community & Safety Circle
 
 <div>
-<img align="left" src="./screenshots/People.gif" width="280" style="margin-right: 20px"/>
+<img align="left" hspace="20" src="./screenshots/People.gif" width="280" style="margin-right: 40px; margin-bottom: 20px"/>
 <div>
 
 <h4>Your Safety Network</h4>
@@ -152,7 +152,7 @@ Built with **React Native**, **Firebase**, **Node.js**, and **Google APIs**, Ale
 ### 📞 Emergency Helpline
 
 <div>
-<img align="left" src="./screenshots/Help.gif" width="280" style="margin-right: 20px"/>
+<img align="left" hspace="20" src="./screenshots/Help.gif" width="280" style="margin-right: 40px; margin-bottom: 20px"/>
 <div>
 
 <h4>Help Is One Tap Away</h4>
